@@ -1,0 +1,24 @@
+my		 Palabra reservada my
+$x		 Identificador 
+=		 Operador = 
+8.0		 Numero real 
+our		 Palabra reservada our
+$f		 Identificador 
+=		 Operador = 
+"Mundo"		 Cadena con interpolacion 
+;		 Simbolo ;
+while		 Palabra reservada while
+(		 Operador (
+$x		 Identificador 
+eq		 Operador eq 
+20.0		 Numero real 
+)		 Operador )
+{		 Operador {
+print		 Palabra reservada print
+"Hola"		 Cadena con interpolacion 
+;		 Simbolo ;
+
++=		 Operador asignacion += 
+2.0		 Numero real 
+;		 Simbolo ;
+}		 Operador }
