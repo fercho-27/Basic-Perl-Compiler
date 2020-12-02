@@ -1,0 +1,2 @@
+Error: La variable $x es un numero y se esta usando con operadores de cadenas(eq). Linea: 3
+

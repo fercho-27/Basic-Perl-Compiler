@@ -1,0 +1,3 @@
+Error en la sentencia de declaracion de variables. Linea=2
+Error en el while. Linea=5
+
